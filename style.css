@@ -1,0 +1,46 @@
+body{
+  background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+  text-align:center;
+  background-repeat : no-repeat;
+  
+}
+#img1{
+    margin: 50px;
+  border-radius:100px;
+}
+h1{
+  text-shadow :2px 2px  #FFEBEE;
+ 
+}
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+    
+}
+
+.im{
+    height: 200px;
+    width: 300px;
+}
+
+.link {
+    float: left;
+    color: fuchsia;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.link:hover {
+    background-color: aqua;
+}
+#sec1{
+    font-family: 'Yusei Magic', sans-serif;
+}
